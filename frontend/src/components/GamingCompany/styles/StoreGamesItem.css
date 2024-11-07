@@ -1,0 +1,42 @@
+/* Styles for StoreGamesItem component */
+/* Nathaniel */
+
+.storeGamesItemContainer {
+  background-color: #757575;
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+  padding: 15px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.storeGamesItemSection1 {
+  width: 200px;
+}
+
+.storeGamesItemImage img {
+  height: 180px;
+  width: 100%;
+}
+
+.storeGamesItemTitle {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.storeGamesItemPublishedBy {
+  font-size: 15px;
+}
+
+.storeGamesItemDescSection {
+  font-style: italic;
+  font-size: 17px;
+  width: 350px;
+}
+
+.storeGamesItemPriceSection {
+  font-weight: bold;
+  font-size: 25px;
+}

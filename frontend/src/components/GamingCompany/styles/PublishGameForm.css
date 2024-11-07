@@ -1,0 +1,61 @@
+/* Styles for PublishGameForm component */
+/* Nathaniel */
+
+.publishGameFormContainer {
+  border-radius: 3px;
+  background-color: #757575;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: #fff;
+  padding: 20px;
+}
+
+.gameTitle {
+  padding-bottom: 15px;
+}
+
+.gameTitle label {
+  margin-bottom: 0.3rem;
+}
+
+.gameImage {
+  padding-bottom: 15px;
+}
+
+.gameImage label {
+  margin-bottom: 0.3rem;
+}
+
+.gameDescription {
+  padding-bottom: 15px;
+}
+
+.gameDescription label {
+  margin-bottom: 0.3rem;
+}
+
+.gamePrice {
+  padding-bottom: 15px;
+}
+
+.gamePrice label {
+  margin-bottom: 0.3rem;
+}
+
+.publishGameSection {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.publishButton {
+  background-color: #77c2ae;
+  border-radius: 0.12em;
+  color: #fff;
+  width: 150px;
+}
+
+.publishButton:hover {
+  color: #fff;
+  background-color: #68ab99;
+}

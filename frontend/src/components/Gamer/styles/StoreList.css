@@ -1,0 +1,20 @@
+/* Yuanyuan:
+    Style sheet for store list */
+.storeList {
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+}
+
+.gamerStoreListTitle {
+  margin-top: 20px;
+  color: white;
+  margin-left: 13%;
+  font-family: "Raleway", sans-serif;
+}
+
+.gamerStoreListDescription {
+  color: white;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  font-family: "Raleway", sans-serif;
+}

@@ -1,0 +1,54 @@
+/* Yuanyuan: 
+    Style Sheet for Navigation bar of Gamer Pages */
+.navBarGamer {
+    background-color: #757575;
+    border-bottom: 2px solid white;
+}
+
+.navBarItems {
+    margin-left: 20px;
+}
+
+.welcomeGamer {
+    color: white;
+    margin-right: 150px;
+    font-size: 20px;
+    font-weight: 520;
+}
+
+.imageNavItem img {
+    width: 50px;
+    height: 50px;
+}
+
+.logoutButton {
+    background-color: #77c2ae;
+    border: 0em;
+    margin-right: 20px;
+    color: white;
+}
+
+.logoutButton:hover {
+    color: white;
+    background-color: #68ab99;
+}
+
+.navItemCart {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 520;
+}
+
+.navItemCart a {
+    color: white !important;
+}
+
+.navItemStore {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 520;
+}
+
+.navItemStore a {
+    color: white !important;
+}

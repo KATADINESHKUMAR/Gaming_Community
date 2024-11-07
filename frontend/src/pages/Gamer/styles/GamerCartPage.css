@@ -1,0 +1,29 @@
+/* Yuanyuan: Style sheet for gamer cart */
+#gamerCartContainer {
+  background-image: url(../../../images/background.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+.gamerCartFooter {
+  color: white;
+  margin-top: 38%;
+  text-align: center;
+}
+
+.gamerCartFooter div {
+  font-family: "Raleway", sans-serif;
+}
+
+.gamerCartTitle {
+  margin-top: 15px;
+  color: white;
+  margin-left: 13%;
+  font-family: "Raleway", sans-serif;
+}
+
+.gamerCartDescription {
+  color: white;
+  margin-left: 13%;
+  font-family: "Raleway", sans-serif;
+}

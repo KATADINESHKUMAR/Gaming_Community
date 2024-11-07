@@ -1,0 +1,51 @@
+/* Yuanyuan:
+    Style sheet for cart items part */
+.gamerCartItemContainer {
+    background-color: #757575;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    padding: 15px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cartMainImg img {
+    margin-left: 5px;
+    height: 180px;
+    width: 180px;
+}
+
+.gamerCartItemSection1 {
+    box-sizing: content-box;
+    height: 250px;
+    width: 200px;
+}
+.gamerCartItemTitle {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.gamerCartItemPublishedBy {
+    color: white;
+    font-size: 15px;
+}
+
+.gamerCartItemDescription {
+    color: white;
+    font-style: italic;
+    font-size: 17px;
+    width: 350px;
+}
+
+.gamerCartItemPrice {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.deleteButton {
+    margin-right: 5px;
+}

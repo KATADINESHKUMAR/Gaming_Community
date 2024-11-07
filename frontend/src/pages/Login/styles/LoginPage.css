@@ -1,0 +1,124 @@
+/* Styles for login page */
+/* Nathaniel */
+
+#loginContainer {
+  background-image: url(../../../images/background.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.welcomeTitle1 {
+  margin-left: 19%;
+  margin-top: 3%;
+  color: #fff;
+  font-size: 45px;
+  font-family: "Raleway", sans-serif;
+}
+
+.welcomeTitle2 {
+  margin-left: 19%;
+  color: #fff;
+  font-size: 25px;
+  font-family: "Raleway", sans-serif;
+}
+
+.loginInfoBox {
+  margin-left: 8px;
+  margin-top: 10px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.loginInfoBox div {
+  font-family: "Raleway", sans-serif;
+}
+
+.loginBox {
+  border-radius: 3px;
+  margin-left: 20%;
+  margin-top: 1%;
+  padding: 20px;
+  color: #fff;
+  background-color: #757575;
+}
+
+.loginSection {
+  margin-top: 1%;
+}
+
+.navToRegisterSection {
+  margin-top: 1%;
+}
+
+.signInButton {
+  background-color: #77c2ae;
+  border-radius: 0.12em;
+  color: #fff;
+  width: 150px;
+}
+
+.signInButton:hover {
+  color: #fff;
+  background-color: #68ab99;
+}
+
+.register {
+  background-color: #77c2ae;
+  border-radius: 0.12em;
+  color: #fff;
+}
+
+.register:hover {
+  color: #fff;
+  background-color: #68ab99;
+}
+
+.footerLogin {
+  margin-top: 10%;
+  color: #fff;
+}
+
+.footerLoginSection1 {
+  margin-top: 1%;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.footerLoginSection2 {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.loginTitle {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+.loginError {
+  font-style: italic;
+  color: #dc3545;
+}
+
+.userNameSection {
+  padding-bottom: 15px;
+}
+
+.userNameSection label {
+  margin-bottom: 0.3rem;
+}
+
+.passwordSection {
+  padding-bottom: 15px;
+}
+
+.passwordSection label {
+  margin-bottom: 0.3rem;
+}
+
+.roleSection {
+  padding-bottom: 15px;
+}
+
+.roleSection label {
+  margin-bottom: 0.3rem;
+}

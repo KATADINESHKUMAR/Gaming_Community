@@ -1,0 +1,26 @@
+{
+  "name": "gamehub",
+  "version": "0.0.0",
+  "author": "Nathaniel Tesfalidet and Yuanyuan Shen",
+  "description": "A web app that allows gamers to add their favorites video games to their carts and gaming companies to publish their video games.",
+  "private": true,
+  "scripts": {
+    "heroku-prebuild": "cd frontend && yarn install && yarn run build",
+    "start": "node ./node_modules/nodemon/bin/nodemon.js ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "mongodb": "^4.2.0",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "7.11.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.27.0",
+    "prettier": "^2.4.1"
+  }
+}

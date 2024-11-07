@@ -1,0 +1,16 @@
+/* Yuanyuan: Style sheet for store page */
+#StoreItems {
+  background-image: url(../../../images/background.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+.storeFooter {
+  margin-top: 30%;
+  color: white;
+  text-align: center;
+}
+
+.storeFooter div {
+  font-family: "Raleway", sans-serif;
+}

@@ -1,0 +1,65 @@
+/* Styles for NavBar for gaming company publicist main page */
+/* Nathaniel */
+
+.navBarCompany {
+  background-color: #757575;
+  border-bottom: 2px solid white;
+}
+
+.navItems {
+  margin-left: 20px;
+}
+
+.imageNavItem img {
+  width: 50px;
+  height: 50px;
+}
+
+.storeNavItem {
+  margin-top: 4px;
+  font-size: 18px;
+  font-weight: 520;
+}
+
+.storeNavItem a {
+  color: white !important;
+}
+
+.myGamesNavItem {
+  margin-top: 4px;
+  font-size: 18px;
+  font-weight: 520;
+}
+
+.myGamesNavItem a {
+  color: white !important;
+}
+
+.publishGameNavItem {
+  margin-top: 4px;
+  font-size: 18px;
+  font-weight: 520;
+}
+
+.publishGameNavItem a {
+  color: white !important;
+}
+
+.welcomeGamingCompanyPublicist {
+  color: white;
+  margin-right: 300px;
+  font-size: 20px;
+  font-weight: 520;
+}
+
+.logoutButtonCompany {
+  color: white;
+  background-color: #77c2ae;
+  border: 0em;
+  margin-right: 20px;
+}
+
+.logoutButtonCompany:hover {
+  color: white;
+  background-color: #68ab99;
+}
